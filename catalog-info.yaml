@@ -6,3 +6,6 @@ spec:
   type: service
   owner: group:infrastructure
   lifecycle: experimental
+  tags:
+    - infrastructure
+    - team-a
