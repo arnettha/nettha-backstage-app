@@ -4,5 +4,5 @@ metadata:
   name: "nettha-backstage-app"
 spec:
   type: service
-  owner: group:guests
+  owner: group:infrastructure
   lifecycle: experimental
