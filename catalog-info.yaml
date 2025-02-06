@@ -7,6 +7,4 @@ spec:
   owner: group:infrastructure
   lifecycle: experimental
   system: testing
-  tags:
-    - infrastructure
-    - team-a
+  tags: infrastructure, team-a
