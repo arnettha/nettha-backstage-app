@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: "nettha-backstage-app"
   tags:
-    - group:backstage-admin
-    - group:backstage-cermati
+    - group:default/backstage-admin
+    - group:default/backstage-cermati
   annotations:
     'jenkins.io/job-full-name': 'infra/grcd/grcd-frontend-prod-containerize/'
     'github.com/project-slug': 'arnettha/nettha-backstage-app'
