@@ -9,6 +9,6 @@ metadata:
     gocd.org/pipelines: backstage,backstage-pr,backstage-builder
 spec:
   type: service
-  owner: group:infrastructure
+  owner: group:backstage-admin
   lifecycle: experimental
   system: testing
