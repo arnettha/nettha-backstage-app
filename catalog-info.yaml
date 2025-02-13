@@ -5,6 +5,8 @@ metadata:
   tags:
     - group:infrastructure
     - group:team-a
+  annotations:
+    gocd.org/pipelines: backstage,backstage-pr,backstage-builder
 spec:
   type: service
   owner: group:infrastructure
