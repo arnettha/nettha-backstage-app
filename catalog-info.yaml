@@ -7,6 +7,7 @@ metadata:
     - group:team-a
   annotations:
     'jenkins.io/job-full-name': infra/grcd/grcd-frontend-prod-containerize/
+    github.com/project-slug: 'arnettha/nettha-backstage-app'
 spec:
   type: service
   owner: group:backstage-admin
