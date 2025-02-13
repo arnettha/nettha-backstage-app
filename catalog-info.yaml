@@ -6,7 +6,7 @@ metadata:
     - group:infrastructure
     - group:team-a
   annotations:
-    gocd.org/pipelines: backstage,backstage-pr,backstage-builder
+    'jenkins.io/job-full-name': infra/grcd/grcd-frontend-prod-containerize/
 spec:
   type: service
   owner: group:backstage-admin
