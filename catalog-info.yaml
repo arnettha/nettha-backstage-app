@@ -15,6 +15,7 @@ metadata:
   annotations:
     'jenkins.io/job-full-name': 'infra/grcd/grcd-frontend-prod-containerize'
     'github.com/project-slug': 'arnettha/nettha-backstage-app'
+    backstage.io/techdocs-ref: value
   jenkins: 'https://someurl.com'
 spec:
   type: service
