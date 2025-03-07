@@ -2,6 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "nettha-backstage-app"
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
   tags:
     - group:backstage-admin
     - group:backstage-cermati
