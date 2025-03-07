@@ -17,4 +17,3 @@ spec:
   type: service
   owner: group:backstage-admin
   lifecycle: experimental
-  system: testing
