@@ -4,8 +4,11 @@ metadata:
   name: "nettha-backstage-app"
   links:
     - url: https://dashboard.example.com
-      title: My Dashboard
+      title: Homepage
       icon: dashboard
+    - url: https://dashboard.example.com
+      title: Guide
+      icon: help
   tags:
     - group:backstage-admin
     - group:backstage-cermati
